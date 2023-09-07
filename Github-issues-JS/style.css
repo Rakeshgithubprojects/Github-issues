@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+}
+
+#pageTitle {
+    padding: 10px;
+    background: coral;
+    width: 10%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+
+#load_prev {
+    background-color: brown;
+}
+
+#load_next {
+    background-color: crimson;
+}
+
+ol {
+    width: 30%;
+    margin: auto;
+}
+
+ol > li {
+    display: block;
+    padding: 10px;
+    margin: 5px;
+    background-color: aquamarine;
+    color: ;
+}
